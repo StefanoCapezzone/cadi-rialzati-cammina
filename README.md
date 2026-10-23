@@ -2,7 +2,7 @@
 
 **Un robot umanoide impara a camminare da solo, dentro un simulatore open source.**
 
-[![Apri il tutorial in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wintermute-tessier/cadi-rialzati-cammina/blob/main/notebook/cadi_rialzati_cammina_tutorial.ipynb)
+[![Apri il tutorial in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StefanoCapezzone/cadi-rialzati-cammina/blob/main/notebook/cadi_rialzati_cammina_tutorial.ipynb)
 &nbsp;![Licenza codice: MIT](https://img.shields.io/badge/codice-MIT-blue)
 &nbsp;![Licenza materiali: CC BY 4.0](https://img.shields.io/badge/slide%20e%20video-CC%20BY%204.0-lightgrey)
 

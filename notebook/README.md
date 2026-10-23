@@ -1,6 +1,6 @@
 # Il tutorial
 
-[![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wintermute-tessier/cadi-rialzati-cammina/blob/main/notebook/cadi_rialzati_cammina_tutorial.ipynb)
+[![Apri in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/StefanoCapezzone/cadi-rialzati-cammina/blob/main/notebook/cadi_rialzati_cammina_tutorial.ipynb)
 
 `cadi_rialzati_cammina_tutorial.ipynb` addestra da zero la rete che fa camminare il G1, spiegando ogni passaggio. Si apre direttamente in Google Colab dal pulsante qui sopra: il notebook viene copiato nel tuo account e gira sulla GPU che scegli.
 
