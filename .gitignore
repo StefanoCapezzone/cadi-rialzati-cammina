@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+# generati da politica_g1.py a ogni avvio
+simulatore/modello/g1_mjx_fullfall.xml
+simulatore/modello/scene_fullfall.xml
+# risultati degli addestramenti
+g1_tutorial/
+*.pkl
