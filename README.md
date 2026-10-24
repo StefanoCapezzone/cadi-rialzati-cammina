@@ -45,11 +45,13 @@ cadi-rialzati-cammina/
 ### 1. Addestra il tuo robot (Colab, nel browser)
 Clicca **Open in Colab** qui sopra, scegli un runtime con GPU ed esegui le celle dall'alto in basso. Il notebook spiega ogni passaggio (osservazioni, ricompensa, PPO con le formule, iperparametri) e alla fine mostra le curve di apprendimento e i video della tua rete.
 
+Vuoi prima vedere dove si arriva? C'è anche la **[versione già eseguita](https://colab.research.google.com/github/StefanoCapezzone/cadi-rialzati-cammina/blob/main/notebook/cadi_rialzati_cammina_tutorial_eseguito.ipynb)** su A100, con grafici e video (in Colab o su [nbviewer](https://nbviewer.org/github/StefanoCapezzone/cadi-rialzati-cammina/blob/main/notebook/cadi_rialzati_cammina_tutorial_eseguito.ipynb); l'anteprima di GitHub non mostra i video).
+
 | modalità | GPU | passi | tempo indicativo |
 |---|---|---|---|
 | `prova` | anche CPU | 2.000 | pochi minuti: verifica che tutto funzioni |
-| `veloce` | T4 (gratuita) | 50 M | ~1 ora *(stima)*: smette di cadere, comincia a camminare |
-| `completo` | A100 / L4 / H100 | 200 M | ~1 ora su A100: cammina, curva, va di lato, regge le spinte |
+| `veloce` | T4 (gratuita) | 50 M | ~35 min + ~15 per i video: smette quasi di cadere, comincia a camminare |
+| `completo` | A100 / L4 / H100 | 200 M | ~40 min su A100 + ~5 per i video: cammina, curva, va di lato, regge le spinte |
 
 ### 2. Gioca con la rete già addestrata (sul tuo portatile, senza GPU)
 ```bash
